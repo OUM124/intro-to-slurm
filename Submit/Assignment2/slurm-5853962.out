@@ -1,0 +1,134 @@
+WARNING: GCC/9.3.0 cannot be loaded due to a conflict.
+HINT: Might try "module unload gcc" first.
+Submitted batch job 5854253
+Submitted batch job 5854255
+Submitted batch job 5854257
+Submitted batch job 5854258
+Submitted batch job 5854260
+Submitted batch job 5854262
+Submitted batch job 5854264
+Submitted batch job 5854266
+Submitted batch job 5854268
+Submitted batch job 5854270
+Submitted batch job 5854271
+Submitted batch job 5854273
+Submitted batch job 5854275
+Submitted batch job 5854277
+Submitted batch job 5854279
+Submitted batch job 5854281
+Submitted batch job 5854283
+Submitted batch job 5854285
+Submitted batch job 5854287
+Submitted batch job 5854289
+Submitted batch job 5854291
+Submitted batch job 5854293
+Submitted batch job 5854294
+Submitted batch job 5854296
+Submitted batch job 5854298
+Submitted batch job 5854300
+Submitted batch job 5854302
+Submitted batch job 5854304
+Submitted batch job 5854306
+Submitted batch job 5854308
+Submitted batch job 5854309
+Submitted batch job 5854311
+Submitted batch job 5854313
+Submitted batch job 5854315
+Submitted batch job 5854317
+Submitted batch job 5854319
+Submitted batch job 5854321
+Submitted batch job 5854322
+Submitted batch job 5854324
+Submitted batch job 5854326
+Submitted batch job 5854328
+Submitted batch job 5854330
+Submitted batch job 5854332
+Submitted batch job 5854334
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+SLURM scripts submitted for varying the number of cores.
+CPU times for each run: 
+Number of cores: 128
+/cm/local/apps/slurm/var/spool/job5853962/slurm_script: line 33: ./plot_results.py: Permission denied
